@@ -133,7 +133,7 @@
 
 ### 方式一：让 AI 帮你安装（推荐）
 
-直接在 Cursor 中对 AI 说：
+直接在对 AI 说：
 ```
 "帮我克隆并安装 https://github.com/dsphper/lanhu-mcp 项目"
 ```
